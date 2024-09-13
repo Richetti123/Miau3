@@ -13,7 +13,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `@its_txx.ff ${pesan}`;
-  let teks = `*ʚ 🩷 Llenen lista o son cupo 🩷 ɞ\n${oi}\n\n*🌤️𝙈𝙚𝙣𝙘𝙞𝙤𝙣𝙚𝙨*\n`;
+  let teks = `*ʚ 🩷 Llenen lista o son cupo 🩷 ɞ*\n${oi}\n\n*🌤️𝙈𝙚𝙣𝙘𝙞𝙤𝙣𝙚𝙨*\n`;
   for (const mem of participants) {
     teks += `ʚ🩷ɞ @${mem.id.split('@')[0]}\n`;
   }
