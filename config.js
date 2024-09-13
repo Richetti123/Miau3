@@ -14,20 +14,20 @@ global.authFile = `MichiBot`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['56928561853', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', false],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true], 
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true], 
-  ['56928561853', 'MichiBot', true],
+  ['56928561853', 'MiauBot', true],
+  ['56941827124', 'MiauBot', true],
+  ['56941827124', 'MiauBot', true],
+  ['56941827124', 'MiauBot', true],
+  ['56941827124', 'MiauBot', true],
+  ['56928561853', 'MiauBot', true],
+  ['56928561853', 'MiauBot', false],
+  ['56928561853', 'MiauBot', true],
+  ['56928561853', 'MiauBot', true],
+  ['56928561853', 'MiauBot', true],
+  ['56928561853', 'MiauBot', true], 
+  ['56928561853', 'MiauBot', true],
+  ['56928561853', 'MiauBot', true], 
+  ['56928561853', 'MiauBot', true],
   ['56941827124'],
   ['56941827124'],
   ['56941827124'],
@@ -58,14 +58,14 @@ global.prems = ['56928561853'];
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'MichiBot';
-global.author = 'MichiBot';
-global.wm = 'MichiBot';
+global.packname = 'MiauBot';
+global.author = 'MiauBot';
+global.wm = 'MiauBot';
 global.idioma = 'es';
-global.ig = '@ceogeripium.dzn';
-global.titulowm = 'MichiBot';
-global.titulowm2 = `MichiBot`
-global.igfg = 'MichiBot';
+global.ig = '@its_txx.ff';
+global.titulowm = 'MiauBot';
+global.titulowm2 = `MiauBot`
+global.igfg = 'MiauBot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -85,12 +85,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMichiBot`;
-global.gt = 'MichiBot';
-global.mysticbot = 'MichiBot';
-global.channel = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M';
-global.md = 'https://www.instagram.com/ceogeripium.dzn';
-global.mysticbot = 'https://www.instagram.com/ceogeripium.dzn';
+global.wm2 = `${dia} ${fecha}\nMiauBot`;
+global.gt = 'MiauBot';
+global.mysticbot = 'MiauBot';
+global.channel = 'https://www.instagram.com/its_txx.ff';
+global.md = 'https://www.instagram.com/its_txx.ff';
+global.mysticbot = 'https://www.instagram.com/its_txx.ff';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
